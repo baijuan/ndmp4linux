@@ -1,0 +1,4 @@
+#labels Phase-Requirements,Phase-Design
+=Current Implementation Hurdles=
+  # It appears that the API for LVM2 has not solidified yet
+  # The NDMP SDK is VERY terse in it explanations and will require much work to test with
