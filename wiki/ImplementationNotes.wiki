@@ -1,8 +1,8 @@
 #labels Phase-Design
 =Implementation Notes=
     A quick read through the NDMP API docs has shown me that in relation to LVM integration, there are 2 functions which will interest us most.
-  # \ModuleStartFunc - Indicates to the server that a backup operation is beginning
-  # \NdmpdDoneFunc - Indicates to the server that a backup operation is finished
+  # [ModuleStartFunc] - Indicates to the server that a backup operation is beginning
+  # [NdmpdDoneFunc] - Indicates to the server that a backup operation is finished
 
     It is my opinion that the ModuleStartFunc should be extended to add the following capabilities:
   # Make a call to the Linux VFS to sync all disks
