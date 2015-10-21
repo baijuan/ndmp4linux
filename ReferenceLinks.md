@@ -1,0 +1,3 @@
+# External Links #
+  * NDMP Specification Web Site - http://www.ndmp.org/
+  * LVM2 Home Page - http://sourceware.org/lvm2/

@@ -1,0 +1,5 @@
+# Wishlist of features for this project #
+  * LVM2 Snapshot integration
+  * Support for NDMP protocol version 3
+  * VFS integration to allow for synchronizing of storage buffers for consistent backup state
+  * Database server plugins?
